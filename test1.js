@@ -1,1 +1,1 @@
-console.log("hi welcome to code with prince");
+console.log("code with prince");
